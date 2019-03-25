@@ -1,4 +1,4 @@
-# Haze
+# Corvus
 Adds a new planet to [Kerbal Space Program](https://www.kerbalspaceprogram.com/).
 
 ### Requires
